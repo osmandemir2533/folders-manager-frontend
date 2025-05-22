@@ -133,19 +133,19 @@ folders-auction-frontend/
 Aşağıda uygulamanın temel ekran görüntülerini ekleyebilirsiniz:
 
 - **Ana Sayfa Ekran Görüntüsü**
-  > ![Ana Sayfa](EKRAN_GORUNTUSU_EKLE)
+  > ![Ana Sayfa](https://github.com/user-attachments/assets/8cb877bf-80a5-492f-8bfd-82a7f326e688)
 
 - **Dashboard Ekran Görüntüsü**
-  > ![Dashboard](EKRAN_GORUNTUSU_EKLE)
+  > ![Dashboard](https://github.com/user-attachments/assets/86c26957-8a73-4e9d-aaf8-44b46ffa0ff8)
 
 - **Dosya Kartı Yapısı**
-  > ![Kart Yapısı](EKRAN_GORUNTUSU_EKLE)
+  > ![Kart Yapısı](https://github.com/user-attachments/assets/dce56264-257c-43d6-9341-dad18acc3a06)
 
 - **About (Hakkında) Sayfası**
-  > ![About](EKRAN_GORUNTUSU_EKLE)
+  > ![About](https://github.com/user-attachments/assets/dcd215f5-4ed1-4c53-b4df-13b01ba91130)
 
 - **İletişim (Contact) Sayfası**
-  > ![Contact](EKRAN_GORUNTUSU_EKLE)
+  > ![Contact](https://github.com/user-attachments/assets/384f2b23-28d5-46a1-a800-16b3fc76c8b0)
 
 ---
 
