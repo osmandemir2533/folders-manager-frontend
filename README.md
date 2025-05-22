@@ -4,6 +4,15 @@ Folders Auction, dosya paylaşımı ve yönetimi için geliştirilmiş modern, g
 Kullanıcılar dosya yükleyebilir, indirebilir, kendi dosyalarını yönetebilir ve başkalarının paylaştığı dosyaları görüntüleyebilir.  
 Proje, hem frontend hem de backend tarafında güncel teknolojiler ve en iyi güvenlik uygulamaları ile geliştirilmiştir.
 
+[![GitHub](https://img.shields.io/badge/GITHUB-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osmandemir2533/folders-auction-backend)
+[![BACKEND](https://img.shields.io/badge/BACKEND-111111?style=for-the-badge&logoColor=white)](https://github.com/osmandemir2533/folders-auction-backend)
+
+## Backend Projesi
+
+Projenin backend kısmına aşağıdaki linkten ulaşabilirsiniz: [Folders Auction Backend](https://github.com/osmandemir2533/folders-auction-backend)
+
+Backend projesi .NET Core ile geliştirilmiş olup, güvenli ve modern bir API sunmaktadır.
+
 ---
 
 ## 🚀 Projeyi Çalıştırmak İçin
