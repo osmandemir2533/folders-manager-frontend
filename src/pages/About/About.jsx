@@ -7,11 +7,11 @@ const About = () => (
       <Box display="flex" alignItems="center" mb={2}>
         <FaInfoCircle size={32} color="#1976d2" style={{ marginRight: 12 }} />
         <Typography variant="h4" color="primary" fontWeight={700}>
-          Folders Auction — Hakkında
+          Folders Manager
         </Typography>
       </Box>
       <Typography variant="body1" mb={2}>
-        <b>Folders Auction</b>, dosya paylaşımı ve yönetimi için geliştirilmiş modern, güvenli ve kullanıcı dostu bir web uygulamasıdır. 
+        <b>Folders Manager</b>, dosya paylaşımı ve yönetimi için geliştirilmiş modern, güvenli ve kullanıcı dostu bir web uygulamasıdır. 
         Kullanıcılar dosya yükleyebilir, indirebilir, kendi dosyalarını yönetebilir ve başkalarının paylaştığı dosyaları görüntüleyebilir. 
         Proje, hem frontend hem de backend tarafında güncel teknolojiler ve en iyi güvenlik uygulamaları ile geliştirilmiştir.
       </Typography>
@@ -149,7 +149,7 @@ const About = () => (
       </List>
       <Divider sx={{ my: 2 }} />
       <Typography variant="body2" color="textSecondary" mt={2}>
-        <b>Folders Auction</b> projesi, modern web standartlarına uygun olarak geliştirilmiştir. 
+        <b>Folders Manager</b> projesi, modern web standartlarına uygun olarak geliştirilmiştir. 
         Hem güvenli hem de kullanıcı dostu bir dosya yönetim deneyimi sunar. 
         Proje, gerçek hayatta dosya paylaşımı ve yönetimi gerektiren tüm senaryolara kolayca uyarlanabilir.
       </Typography>

@@ -9,8 +9,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-info">
-          <p>© 2024 Osman Demir. Tüm hakları saklıdır.</p>
-          <p>Geliştirici: {user?.name || 'Osman Demir'}</p>
+          <p>© 2025 Osman Demir. Tüm hakları saklıdır.</p>
         </div>
         <div className="footer-links">
           <a href="https://osmandemir2533.github.io/" target="_blank" rel="noopener noreferrer">

@@ -47,10 +47,6 @@ const Contact = () => (
           <FaEnvelope size={24} /> E-posta
         </MuiLink>
       </Stack>
-      <Divider sx={{ my: 2 }} />
-      <Typography variant="body2" color="textSecondary" align="center" mt={2}>
-        © 2024 Osman Demir — Tüm Hakları Saklıdır.
-      </Typography>
     </Paper>
   </Box>
 );
