@@ -1,5 +1,5 @@
 # Folders Manager
-
+ 
 Folders Manager, dosya paylaşımı ve yönetimi için geliştirilmiş modern, güvenli ve kullanıcı dostu bir web uygulamasıdır.  
 Kullanıcılar dosya yükleyebilir, indirebilir, kendi dosyalarını yönetebilir ve başkalarının paylaştığı dosyaları görüntüleyebilir.  
 Proje, hem frontend hem de backend tarafında güncel teknolojiler ve en iyi güvenlik uygulamaları ile geliştirilmiştir.
