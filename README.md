@@ -13,11 +13,19 @@ Projenin backend kısmına aşağıdaki linkten ulaşabilirsiniz: [Folders Manag
 
 Backend projesi .NET Core ile geliştirilmiş olup, güvenli ve modern bir API sunmaktadır.
 
+Backend kurulumunu yaptıktan sonra Frontend kurulumuna geçebilirsiniz. Aşağıdaki yönergeleri takip edin.
+
 ---
 
 ## 🚀 Projeyi Çalıştırmak İçin
 
 ```bash
+# Repoyu klonlayın
+git clone https://github.com/osmandemir2533/folders-manager-frontend.git
+
+# Proje dizinine gidin
+cd folders-manager-frontend
+
 # Gerekli paketleri yükleyin
 npm install
 
