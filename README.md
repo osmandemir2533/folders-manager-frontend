@@ -13,7 +13,7 @@ Projenin backend kısmına aşağıdaki linkten ulaşabilirsiniz: [Folders Manag
 
 Backend projesi .NET Core ile geliştirilmiş olup, güvenli ve modern bir API sunmaktadır.
 
-Backend kurulumunu yaptıktan sonra Frontend kurulumuna geçebilirsiniz. Aşağıdaki yönergeleri takip edin.
+> Backend kurulumunu yaptıktan sonra Frontend kurulumuna geçebilirsiniz. Aşağıdaki yönergeleri takip edin.
 
 ---
 
