@@ -13,22 +13,23 @@ const Contact = () => (
             Osman Demir
           </Typography>
           <Typography variant="subtitle1" color="textSecondary">
-            Full Stack Web Developer
+            Full Stack Developer
           </Typography>
         </Box>
       </Box>
       <Typography variant="body1" mb={2}>
-        2003 yılında Erzurum'da doğdum. Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği (Lisans) bölümünden mezunum. Web geliştirme ve full-stack alanlarında çalışmaktayım. React, JavaScript, .NET & .NET Core, Bootstrap, Firebase, MSSQL, C#, ve Node.js gibi modern araçlarla kullanıcı dostu ve verimli çözümler üretiyorum.
+        Merhaba, ben Osman. Web geliştirme ve full-stack alanlarında çalışmaktayım. Bilgisayar Mühendisliği bölümü mezunu olarak, üniversite sürecinde edindiğim teorik altyapıyı pratik uygulamalarla birleştiriyor; kapsamlı ve uzun vadeli web projelerini hayata geçiriyorum. React, .NET & .NET Core, JavaScript, Firebase, MSSQL, C#, Bootstrap gibi modern araçlarla kullanıcı dostu, performans odaklı uygulamalar geliştiriyorum.
       </Typography>
       <Typography variant="body1" mb={2}>
-        Yazılım geliştirme süreçlerinde clean code prensiplerini benimsiyor, SOLID prensiplerine uygun, sürdürülebilir ve ölçeklenebilir uygulamalar tasarlıyorum. Frontend'de React.js ekosistemi, backend'de .NET Core framework'ü ile modern web uygulamaları geliştirirken, veritabanı yönetimi ve sistem mimarisi konularında da etkin çözümler üretiyorum.
+        Yazılım geliştirme süreçlerinde clean code prensiplerini benimsiyor, SOLID prensiplerine uygun, sürdürülebilir ve gereksinimlere uyum sağlayabilen yazılım mimarileri tasarlıyorum. Frontend'de React.js ekosistemi, backend'de .NET Core framework'ü ile modern web uygulamaları geliştirirken, veritabanı yönetimi ve sistem mimarisi konularında da etkin çözümler sunuyorum.
       </Typography>
       <Typography variant="body1" mb={2}>
-        Version control sistemleri ve CI/CD süreçleriyle profesyonel iş akışlarını destekliyorum. Teknoloji ve yazılım alanındaki güncel gelişmeleri yakından takip ediyor, sürekli öğrenme ve gelişim odaklı bir yaklaşım benimsiyorum. Güçlü problem çözme yeteneklerim, yenilikçi bakış açım ve ekip çalışmasına yatkın yapımla, projelerde etkin sonuçlar elde ediyorum.
+        Version control sistemleri ve CI/CD süreçleriyle profesyonel iş akışlarını destekliyorum. Teknoloji ve yazılım alanındaki güncel gelişmeleri yakından takip ediyor, sürekli öğrenme ve gelişim odaklı bir yaklaşım benimsiyorum. Güçlü problem çözme yeteneklerim, yenilikçi bakış açım ve ekip çalışmasına yatkın yapımla projelerde etkin sonuçlar elde ediyorum.
       </Typography>
       <Typography variant="body1" mb={2}>
-        Yazılım geliştirme topluluklarıyla etkileşim halinde kalarak, sektördeki en iyi uygulamaları ve yeni teknolojileri projelerime entegre ediyorum. Öğrenmeye açık yaklaşımım sayesinde hem bireysel hem ekip projelerinde aktif rol alıyor, bu projeleri düzenli olarak geliştirip GitHub sayfamda paylaşıyorum.
+        Yazılım geliştirme topluluklarıyla etkileşim halinde kalarak, sektördeki en iyi uygulamaları ve yeni teknolojileri projelerime entegre ediyorum. Benim hakkımda daha detaylı bilgi edinmek, projelerimi incelemek ve teknik yetkinliklerimi daha yakından görmek isterseniz, kişisel portföy sitemi ziyaret edebilirsiniz. Sitede hem kariyerime dair ayrıntılı içerikler hem de geliştirdiğim uygulamalara ait bilgiler yer almaktadır. Ayrıca LinkedIn profilimdeki Projeler bölümünde bazı geçmiş çalışmalarımı görüntüleyebilir, GitHub profilim üzerinden ise açık kaynak kodlarıma ve aktif olarak üzerinde çalıştığım projelere ulaşabilirsiniz.
       </Typography>
+
       <Divider sx={{ my: 3 }} />
       <Typography variant="h6" fontWeight={600} mb={2}>
         İletişim & Sosyal Medya
@@ -42,9 +43,6 @@ const Contact = () => (
         </MuiLink>
         <MuiLink href="https://github.com/osmandemir2533" target="_blank" rel="noopener" underline="none" sx={{ color: '#24292f', display: 'flex', alignItems: 'center', gap: 1, fontWeight: 600, fontSize: 18 }}>
           <FaGithub size={24} /> GitHub
-        </MuiLink>
-        <MuiLink href="mailto:osman25dem@gmail.com" underline="none" sx={{ color: '#e53935', display: 'flex', alignItems: 'center', gap: 1, fontWeight: 600, fontSize: 18 }}>
-          <FaEnvelope size={24} /> E-posta
         </MuiLink>
       </Stack>
     </Paper>
