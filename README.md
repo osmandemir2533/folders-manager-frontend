@@ -10,11 +10,11 @@ Proje, hem frontend hem de backend tarafında güncel teknolojiler ve en iyi gü
 ## Backend Projesi
 
 Projenin backend kısmına aşağıdaki linkten ulaşabilirsiniz: [Folders Manager Backend](https://github.com/osmandemir2533/folders-manager-backend)
-
+ 
 Backend projesi .NET Core ile geliştirilmiş olup, güvenli ve modern bir API sunmaktadır.
 
 > Backend kurulumunu yaptıktan sonra Frontend kurulumuna geçebilirsiniz. Aşağıdaki yönergeleri takip edin.
-
+ 
 ---
 
 ## 🚀 Projeyi Çalıştırmak İçin
